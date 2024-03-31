@@ -1,0 +1,9 @@
+
+-------Most frequent words-------
+[('educao', 29), ('currculo', 27), ('web', 21), ('llm', 18), ('alunos', 18), ('tecnologias', 15), ('aprendizagem', 14), ('pode', 14), ('currculos', 13), ('ead', 13), ('the', 13), ('professores', 13), ('of', 11), ('podem', 10), ('and', 10), ('artificial', 9), ('tambm', 9), ('inteligncia', 8), ('digitais', 8), ('educacionais', 8)]
+
+-------Top 3-grams-------
+[(('exemplo', 'llm', 'pode'), 4), (('llm', 'pode', 'gerar'), 4), (('currculo', 'web', 'currculo'), 3), (('large', 'language', 'models'), 3), (('necessidades', 'caractersticas', 'cada'), 3), (('curriculum', 'in', 'distance'), 3), (('in', 'distance', 'education'), 3), (('possibilidades', 'aprendizagem', 'participao'), 3), (('aprendizagem', 'participao', 'alunos'), 3), (('etc', 'llm', 'tambm'), 3), (('llm', 'tambm', 'pode'), 3), (('tecnologias', 'informao', 'comunicao'), 2), (('podem', 'ferramenta', 'importante'), 2), (('ferramenta', 'importante', 'melhorar'), 2), (('importante', 'melhorar', 'qualidade'), 2), (('melhorar', 'qualidade', 'eficincia'), 2), (('qualidade', 'eficincia', 'currculo'), 2), (('web', 'currculo', 'ead'), 2), (('currculo', 'ead', 'pois'), 2), (('ead', 'pois', 'pode'), 2)]
+
+-------Sentiment Analysis-------
+{'neg': 0.002, 'neu': 0.984, 'pos': 0.015, 'compound': 0.9442}
